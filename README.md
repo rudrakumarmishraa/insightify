@@ -11,7 +11,7 @@ Conversations, Code Generation, Image Generation.
 
 ## :sparkles: Features
 
-- *Advanced AI Conversation*: Used <b>gpt-3.5-turbo</b> model for converstion with users with fast response, leveraging OpenAI node js packages to write backend code.
+- *Advanced AI Conversation*: Used <b>gpt-3.5-turbo</b> model for conversation with users with fast response, leveraging OpenAI node js packages to write backend code.
 - *Intuitive Code Genration*: Used <b>gpt-3.5-turbo</b> model with <b>ReactMarkDown</b> to provide code generated with proper markdown and comments to make code understandable.
 - *High Resolution Image Generation*: Used <b>dall-e-2</b> model to generate high resolution images ranging from <b>(256x256)-(1024x1024)</b> and providing links to download generated images by AI Model.
 
