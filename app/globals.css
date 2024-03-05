@@ -1,0 +1,7 @@
+/* Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Loading Bar Animation */
+@keyframes loading { 0% { width: 0px; } 50% { width: 100dvw; } 100% { width: 0px; } }

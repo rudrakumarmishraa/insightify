@@ -1,0 +1,2 @@
+// Exporting Function for LoadingUI
+export default function LoadingUI() { return (<main className="h-screen w-full bg-gray-900"><section id="loading-bar" className="absolute h-1 top-0 left-0 bg-[#0070f3] rounded-full" style={{ animation: "loading 1s forwards infinite" }}></section></main>) }
